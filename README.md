@@ -7,6 +7,10 @@
   * options: commentable
   * tags: #waysofworking #groundrules #prinicples #values #tenets #workingagreements #cto #cio #leadership #teamwork
 -->
+# Always
+git pull --rebase upstream main
+<change>
+git push origin main
 
 # Ways of working
 
